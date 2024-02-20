@@ -1,5 +1,4 @@
-#       CSE 3666 Lab 1
-
+#This RISC-V program aims to find the greatest common denominator, denoted as GCD
         .globl  main
 
         .text
